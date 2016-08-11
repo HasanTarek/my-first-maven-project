@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49289" started-at="2016-08-07T03:56:29Z" finished-at="2016-08-07T03:57:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49289" started-at="2016-08-07T03:56:29Z" finished-at="2016-08-07T03:57:19Z">
+      <class name="com.myFirstMavenProject.myFirstMavenProject.HomePage2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.myFirstMavenProject.myFirstMavenProject.HomePage2@2d209079]" name="setUp" is-config="true" duration-ms="36298" started-at="2016-08-06T23:56:29Z" finished-at="2016-08-06T23:57:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.myFirstMavenProject.myFirstMavenProject.HomePage2@2d209079]" name="test" duration-ms="12966" started-at="2016-08-06T23:57:06Z" finished-at="2016-08-06T23:57:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myFirstMavenProject.myFirstMavenProject.HomePage2@2d209079]" name="tearDown" is-config="true" duration-ms="0" started-at="2016-08-06T23:57:19Z" finished-at="2016-08-06T23:57:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.myFirstMavenProject.myFirstMavenProject.HomePage2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
